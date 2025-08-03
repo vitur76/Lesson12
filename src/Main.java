@@ -7,6 +7,8 @@ class CPU {
         this.model = model;
     }
 
+
+
     // Clasa internă Processor
     class Processor {
         private String speed;
